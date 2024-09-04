@@ -1,0 +1,2 @@
+-A project that was made in order to understand how relations work AND how to use Microsoft SQL
+-File was made using Microsoft SQL Management Studio 2024
